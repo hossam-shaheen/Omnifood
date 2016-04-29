@@ -5,6 +5,10 @@
     "variables.scss"
   ],
   "sourcesContent": [],
+<<<<<<< HEAD
   "mappings": "AAAA,YAAY",
+=======
+  "mappings": "AAAA,YAAY;AAKZ,QAAQ",
+>>>>>>> hossam
   "names": []
 }

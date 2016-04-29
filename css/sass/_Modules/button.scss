@@ -1,0 +1,21 @@
+.btn{
+    padding: 10px 30px;
+    border-radius: 30px;
+    color: #fff;
+    background: $bgColor;
+    border: 1px solid darken($bgColor,20%);
+    font-size: $font-size +3;
+    font-family: $primaryFont ;
+}
+
+.primary{
+   
+    padding: 10px 30px;
+    border-radius: 30px;
+    color: #fff;
+    background: transparent;
+    border: 1px solid darken($bgColor,20%);
+    font-size: $font-size +3;
+    font-family: $primaryFont;
+    
+}
