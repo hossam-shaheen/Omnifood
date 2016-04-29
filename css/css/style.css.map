@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,kBAAkB;ACAlB,YAAY;ADKZ,qBAAqB;AAIrB,oBAAoB",
+"sources": ["../sass/main.scss","../sass/_Base/variables.scss"],
+"names": [],
+"file": "style.css"
+}
