@@ -1,7 +1,7 @@
 {
 "version": 3,
-"mappings": "AAAA,kBAAkB;ACAlB,YAAY;ADKZ,qBAAqB;AAIrB,oBAAoB",
-"sources": ["../sass/main.scss","../sass/_Base/variables.scss"],
+"mappings": "AAAA,kBAAkB;ACAlB,YAAY;ADKZ,qBAAqB;AAIrB,oBAAoB;AETpB,aAAa;EAET,gBAAgB,EAAE,kBAAkB",
+"sources": ["../sass/main.scss","../sass/_Base/variables.scss","../sass/_Layout/homePage.scss"],
 "names": [],
 "file": "style.css"
 }
